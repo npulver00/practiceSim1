@@ -7,10 +7,16 @@
   background-color: red;
   width: 250px;
   height: 250px;
+  
 }
 
 .header{
   width: 100%;
   height: 100px;
   background-color: green;
+}
+
+img{
+  width: 250px;
+  height: 250px;
 }
